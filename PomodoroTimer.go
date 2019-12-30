@@ -7,7 +7,7 @@ import (
 	"os"
 	"time"
 
-	fh "github.com/cctechwiz/utils/flagHelpers"
+	fh "github.com/cctechwiz/GoUtils/flagHelpers"
 )
 
 var (
