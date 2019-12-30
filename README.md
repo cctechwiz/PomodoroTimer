@@ -1,6 +1,7 @@
 # Simple Pomodoro Timer
 
 This pomodoro timer has a very simple feature set based on my current needs.
+
 Most use cases will be either:
 
 ```bash
@@ -14,7 +15,7 @@ or
 ./pomodoro.exe --break-long # for taking a 15 minute break after 4 pomodoros
 ```
 
-Another common use case would be to add the `--message` options tp specify the task you are working on during that pomodoro.
+Another common use case would be to add the `--message` options to specify the task you are working on during that pomodoro, or how you spent the break.
 
 ---
 
